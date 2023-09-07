@@ -4,7 +4,7 @@
 2. nasm
 3. gcc
 ### usage
-1. `git clone`
+1. `git clone https://github.com/gendonholaholo/fractal_asm_vs_c.git`
 2. `cd fractal`
 3. `cd asm/`
 4. `make`
